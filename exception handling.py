@@ -2,8 +2,6 @@ print("starting line")
 a=[11,22,33]
 
 try:
-
-
     print(y)
 except ZeroDivisionError:
     print("Exception raised due to zero devision error")
