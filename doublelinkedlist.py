@@ -37,6 +37,7 @@ obj4.prev = obj3
  
 obj4.next = obj5 
 obj5.prev = obj4 
- 
+
+
 printLeftToRightManner(obj1)
 printRightToLeftManner(obj5)
